@@ -6,9 +6,30 @@ All of these notes are written in org-mode. I prefer org-mode for note taking ov
 * Table of Contents
 - [[https://github.com/cyrialize/programming-notes#resources][Resources]]
 * Resources 
-A list of resources that I've referred to across various subjects.
+A list of resources / references material that I've referred to across various subjects.
 ** Programming Interviews 
 *** Free Online Repositories / Guides
 - [[https://github.com/yangshun/tech-interview-handbook][Tech Interview Handbook]] by [[https://github.com/yangshun][yangshun]]
 - [[https://github.com/kdn251/interviews][Interviews]] by [[https://github.com/kdn251][kdn251]]
 - [[https://github.com/jwasham/coding-interview-university][Coding Interview University]] by [[https://github.com/jwasham][jwasham]]
+* News 
+Ways that I keep up with the industry.
+** Websites
+*** General
+- [[https://news.ycombinator.com/][Hacker News]]
+  - If anything significant happens in the tech industry, I can guarantee you'll find it on HN. 
+- [[https://dev.to/][Dev.to]]
+  - A social network, just for programming. 
+** Newsletters
+*** Javascript 
+- [[https://javascriptweekly.com/][Javascript Weekly]]
+* Emacs 
+A lisp personal computer emulator that's a pretty solid code editor.
+- [[https://www.masteringemacs.org/][Mastering Emacs]]
+  - Personal blog about all things related to Emacs. Many articles on here are absolutely essential for learning Emacs.
+- [[https://www.masteringemacs.org/reading-guide][Reading Guide by Mastering Emacs]]
+  - A reading guide by Mastering Emacs on how to get better at Emacs
+- [[https://planet.emacslife.com/][Planet Emacslife]]
+  - News aggregator for Emacs. Any article about Emacs you can find here.
+- [[https://github.com/emacs-tw/awesome-emacs][Awesome Emacs]]
+  - Awesome list for Emacs. A great place to find some new plugins.
