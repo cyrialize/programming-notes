@@ -1,0 +1,9 @@
+* What is this?
+This repository contains all of the resources and notes I use for programming and programming related things.
+
+All of these notes are written in org-mode. I prefer org-mode for note taking over markdown.
+
+* Table of Contents
+- [[*Resources][Resources]]
+* Resources 
+A list of resources that I've referred to across various subjects.
