@@ -4,6 +4,11 @@ This repository contains all of the resources and notes I use for programming an
 All of these notes are written in org-mode. I prefer org-mode for note taking over markdown.
 
 * Table of Contents
-- [[*Resources][Resources]]
+- [[https://github.com/cyrialize/programming-notes#resources][Resources]]
 * Resources 
 A list of resources that I've referred to across various subjects.
+** Programming Interviews 
+*** Free Online Repositories / Guides
+- [[https://github.com/yangshun/tech-interview-handbook][Tech Interview Handbook]] by [[https://github.com/yangshun][yangshun]]
+- [[https://github.com/kdn251/interviews][Interviews]] by [[https://github.com/kdn251][kdn251]]
+- [[https://github.com/jwasham/coding-interview-university][Coding Interview University]] by [[https://github.com/jwasham][jwasham]]
