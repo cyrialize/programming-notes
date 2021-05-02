@@ -5,6 +5,8 @@ All of these notes are written in org-mode. I prefer org-mode for note taking ov
 
 * Table of Contents
 - [[https://github.com/cyrialize/programming-notes#resources][Resources]]
+- [[https://github.com/cyrialize/programming-notes#news][News]]
+- [[https://github.com/cyrialize/programming-notes#emacs][Emacs]]
 * Resources 
 A list of resources / references material that I've referred to across various subjects.
 ** Programming Interviews 
