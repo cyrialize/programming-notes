@@ -20,6 +20,7 @@ Using your skills to help the government and people!
 - [[https://cydharrell.com/book/][Civic Technologist's Practice Guide]] by [[https://cydharrell.com/][Cyd Harrell]]
   - Civic Technology is a young field and Cyd Harrell writes all that she knows (which is quite a lot) in this book
   - Basically if you want to get into Civic Technology, read this
+- [[https://civictech.guide/][Civic Tech Field Guide]]
 - [[https://www.codeforamerica.org/][Code for America]]
   - A non profit that connects programmers with local governments to complete tech projects
 - [[https://www.repaircafe.org/en/][Repair Cafe]]
