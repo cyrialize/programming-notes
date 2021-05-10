@@ -1,5 +1,5 @@
 * About
-This repository contains all of the resources I use for programming and programming related things.
+This repository contains all of the resources I like for technology and programming.
 
 All of these notes are written in org-mode. I prefer org-mode for note taking over markdown.
 
@@ -7,7 +7,25 @@ All of these notes are written in org-mode. I prefer org-mode for note taking ov
 - [[https://github.com/cyrialize/programming-notes#career][Career]]
 - [[https://github.com/cyrialize/programming-notes#news][News]]
 - [[https://github.com/cyrialize/programming-notes#emacs][Emacs]]
+* Internet
+General Word Wide Web things. Mainly a focus on indie web stuff. I also just really miss Geocities.
+- [[https://indieweb.org/][IndieWeb]]
+  - Community of individual personal websites and more! Check it out
+- [[https://neocities.org/][Neocities]]
+  - My personal website host. Do you miss Geocities? Do you miss janky cool websites? Check it out
+- [[https://restorativland.org/][Restorativland]]
+  - Made by the creator of Neocities, [[https://kyledrake.com/][Kyle Drake]], it is a project to save shut down web ruins (like Geocities - did I mention that I miss Geocities?)
+* Civic Technology 
+Using your skills to help the government and people!
+- [[https://cydharrell.com/book/][Civic Technologist's Practice Guide]] by [[https://cydharrell.com/][Cyd Harrell]]
+  - Civic Technology is a young field and Cyd Harrell writes all that she knows (which is quite a lot) in this book
+  - Basically if you want to get into Civic Technology, read this
+- [[https://www.codeforamerica.org/][Code for America]]
+  - A non profit that connects programmers with local governments to complete tech projects
+- [[https://www.repaircafe.org/en/][Repair Cafe]]
+  - Free meeting places about repairing things
 * Career
+Various resources I've used to further my career.
 ** Coding Interviews
 - [[https://github.com/yangshun/tech-interview-handbook][Tech Interview Handbook]] by [[https://github.com/yangshun][yangshun]]
 - [[https://github.com/kdn251/interviews][Interviews]] by [[https://github.com/kdn251][kdn251]]
