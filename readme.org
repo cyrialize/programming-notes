@@ -1,15 +1,13 @@
-* What is this?
-This repository contains all of the resources and notes I use for programming and programming related things.
+* About
+This repository contains all of the resources I use for programming and programming related things.
 
 All of these notes are written in org-mode. I prefer org-mode for note taking over markdown.
 
 * Table of Contents
-- [[https://github.com/cyrialize/programming-notes#resources][Resources]]
+- [[https://github.com/cyrialize/programming-notes#programming-interviews][Resources]]
 - [[https://github.com/cyrialize/programming-notes#news][News]]
 - [[https://github.com/cyrialize/programming-notes#emacs][Emacs]]
-* Resources 
-A list of resources / references material that I've referred to across various subjects.
-** Programming Interviews 
+* Programming Interviews 
 *** Free Online Repositories / Guides
 - [[https://github.com/yangshun/tech-interview-handbook][Tech Interview Handbook]] by [[https://github.com/yangshun][yangshun]]
 - [[https://github.com/kdn251/interviews][Interviews]] by [[https://github.com/kdn251][kdn251]]
