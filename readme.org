@@ -4,14 +4,18 @@ This repository contains all of the resources I use for programming and programm
 All of these notes are written in org-mode. I prefer org-mode for note taking over markdown.
 
 * Table of Contents
-- [[https://github.com/cyrialize/programming-notes#programming-interviews][Resources]]
+- [[https://github.com/cyrialize/programming-notes#career][Career]]
 - [[https://github.com/cyrialize/programming-notes#news][News]]
 - [[https://github.com/cyrialize/programming-notes#emacs][Emacs]]
-* Programming Interviews 
-*** Free Online Repositories / Guides
+* Career
+** Coding Interviews
 - [[https://github.com/yangshun/tech-interview-handbook][Tech Interview Handbook]] by [[https://github.com/yangshun][yangshun]]
 - [[https://github.com/kdn251/interviews][Interviews]] by [[https://github.com/kdn251][kdn251]]
 - [[https://github.com/jwasham/coding-interview-university][Coding Interview University]] by [[https://github.com/jwasham][jwasham]]
+** Books
+- [[https://thetechresume.com/][The Tech Resume]] by [[https://blog.pragmaticengineer.com/][The Pragmatic Engineer (Gergely Orosz)]]
+  - If you don't want to buy the book, there's also the [[https://thetechresume.com/samples/original-pdf.html][original pdf]] that the book is based off of
+- 
 * News 
 Ways that I keep up with the industry.
 ** Websites
