@@ -15,7 +15,6 @@ All of these notes are written in org-mode. I prefer org-mode for note taking ov
 ** Books
 - [[https://thetechresume.com/][The Tech Resume]] by [[https://blog.pragmaticengineer.com/][The Pragmatic Engineer (Gergely Orosz)]]
   - If you don't want to buy the book, there's also the [[https://thetechresume.com/samples/original-pdf.html][original pdf]] that the book is based off of
-- 
 * News 
 Ways that I keep up with the industry.
 ** Websites
