@@ -4,6 +4,8 @@ This repository contains all of the resources I like for technology and programm
 All of these notes are written in org-mode. I prefer org-mode for note taking over markdown.
 
 * Table of Contents
+- [[https://github.com/cyrialize/programming-notes#internet][Internet]]
+- [[https://github.com/cyrialize/programming-notes#civic-technology][Civic Technology]]
 - [[https://github.com/cyrialize/programming-notes#career][Career]]
 - [[https://github.com/cyrialize/programming-notes#news][News]]
 - [[https://github.com/cyrialize/programming-notes#emacs][Emacs]]
