@@ -27,6 +27,8 @@ Using your skills to help the government and people!
   - A non profit that connects programmers with local governments to complete tech projects
 - [[https://www.repaircafe.org/en/][Repair Cafe]]
   - Free meeting places about repairing things
+- [[https://www.youtube.com/watch?v=RdUE9Z8iI8s&list=PL65XgbSILalU3CPOpBOzBiX-31rzk8oox][Better Foundations]] by Genevieve Gaudet, Service Designer, Nava PBC
+  - A short YouTube video (~9 min) that goes into the beliefs and approaches needed in order to be successful in Civic Technology
 * Career
 Various resources I've used to further my career.
 ** Coding Interviews
